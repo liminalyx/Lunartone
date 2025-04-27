@@ -1,0 +1,43 @@
+{
+  "theme_color": "#317541",
+  "background_color": "#141716",
+  "display": "standalone",
+  "scope": "/edit",
+  "start_url": "/edit",
+  "name": "Lunartone",
+  "short_name": "Lunartone",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "Lunartone",
+  "lang": "kk",
+  "categories": [
+    "music"
+  ],
+  "description": "Lunartone — бұл интуитивті және қуатты онлайн MIDI редакторы, ол музыкалық композицияларды тікелей браузерде жасауға, өңдеуге және визуализациялауға мүмкіндік береді. Заманауи интерфейсі мен жоғары өнімділігін қолдай отырып, Lunartone кез келген деңгейдегі музыканттар, композиторлар және музыка әуесқойлары үшін керемет көмекші болады."
+}
